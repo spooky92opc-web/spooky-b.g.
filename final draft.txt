@@ -1,0 +1,10 @@
+/spooky-bg-site/
+├── index.html
+├── manifest.json
+├── service-worker.js
+├── /images/
+│   ├── logo.png
+│   ├── wall1.jpg
+│   ├── wall2.jpg
+│   ├── wall3.jpg
+│   └── wall4.jpg
